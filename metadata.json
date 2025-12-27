@@ -1,0 +1,8 @@
+{
+  "name": "Axiony",
+  "description": "Axiony (Pennytrace) tracks micro-expenses automatically, turning small daily leaks into financial awareness using AI-powered insights.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
